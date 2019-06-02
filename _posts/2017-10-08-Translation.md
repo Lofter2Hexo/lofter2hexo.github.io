@@ -5,9 +5,6 @@ date: 2017-10-08 09:00:00 +0800
 categories: 研究生涯
 tag: Github
 ---
-* content
-{:toc}
-
 
 开源是一种精神。
 
