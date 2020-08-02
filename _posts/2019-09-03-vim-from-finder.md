@@ -1,8 +1,9 @@
 ---
-title: "把「终端下的 Vim」作为 macOS Finder 的打开方式"
-subtitle: 'Open file with terminal Vim from the macOS Finder'
-author: "Hux"
+author: Hux
+date: 2019-09-03 09:00:00 +0800
+slug: vim-from-finder
 tags: Vim
+title: 把「终端下的 Vim」作为 macOS Finder 的打开方式
 ---
 
 我的日常主力编辑器主要是：

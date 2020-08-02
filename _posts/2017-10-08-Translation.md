@@ -1,8 +1,13 @@
 ---
-title: "参与开源翻译的正确姿势"
+categories:
+- 研究
+- 生涯
 date: 2017-10-08 09:00:00 +0800
-categories: [研究,生涯]
-tags: [Github,Line]
+slug: Translation
+tags:
+- Github
+- Line
+title: 参与开源翻译的正确姿势
 ---
 
 开源是一种精神。
