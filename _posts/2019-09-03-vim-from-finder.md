@@ -1,5 +1,4 @@
 ---
-author: Hux
 date: 2019-09-03 09:00:00 +0800
 slug: vim-from-finder
 tags: Vim
